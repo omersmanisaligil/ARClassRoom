@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="skeleton" size="5.000000 3.600000" />
+    <ImageTarget name="solar_system" size="4.000000 2.586667" />
+    <ImageTarget name="MousePad" size="5.000000 7.498762" />
+  </Tracking>
+</QCARConfig>
