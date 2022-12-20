@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="solar_system_scaled" size="0.215000 0.139033" />
+    <ImageTarget name="skeleton_scaled" size="0.215000 0.154800" />
+    <ImageTarget name="sodium" size="0.215000 0.215000" />
+    <ImageTarget name="Eastern_Bluebird-27527-2" size="0.150000 0.150000" />
+    <ImageTarget name="Bird-Drawing-Color-SQ-GraphicsFairy" size="0.150000 0.150000" />
+    <ImageTarget name="bluebird" size="0.215000 0.161250" />
+    <ImageTarget name="flor-sembolu-2" size="0.215000 0.245028" />
+    <ImageTarget name="hydrogen-reversed" size="0.215000 0.215000" />
+    <ImageTarget name="oxygen" size="0.215000 0.242494" />
+    <ImageTarget name="hydrogen-periodic-table-element-icon-white-background-86915745" size="0.215000 0.215000" />
+  </Tracking>
+</QCARConfig>
