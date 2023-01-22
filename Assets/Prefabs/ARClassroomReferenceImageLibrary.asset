@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ARClassroomReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4680813251184489296
+  m_GuidHigh: 2764777550795710641
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5526649207181150913
+      m_GuidHigh: 12271053890355590315
+    m_SerializedTextureGuid:
+      m_GuidLow: 5579100343445941559
+      m_GuidHigh: 3495252661931253417
+    m_Size: {x: 0.1, y: 0.11278772}
+    m_SpecifySize: 0
+    m_Name: oxygen
+    m_Texture: {fileID: 2800000, guid: f95aed37f2334d6ca99ea602c7a18130, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5563126087974356112
+      m_GuidHigh: 3409294559126822312
+    m_SerializedTextureGuid:
+      m_GuidLow: 5569794336178156108
+      m_GuidHigh: 1270904318433245626
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 0
+    m_Name: sodium
+    m_Texture: {fileID: 2800000, guid: 4fe1b24ce2704d4bba39b97bbe28a311, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5255499090492039122
+      m_GuidHigh: 9535131141446538644
+    m_SerializedTextureGuid:
+      m_GuidLow: 5652165156176756346
+      m_GuidHigh: 13256489952093519793
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: blueBird
+    m_Texture: {fileID: 2800000, guid: 59c17e7a86434e70b1bf11236083f8b7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5108603173558104277
+      m_GuidHigh: 6243557209639576480
+    m_SerializedTextureGuid:
+      m_GuidLow: 5381216984497476853
+      m_GuidHigh: 6277940405565985973
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: SimpleSkeleton
+    m_Texture: {fileID: 2800000, guid: 244554f5ec564aadb514d57289b91f57, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5519280692684887853
+      m_GuidHigh: 6800517694489703072
+    m_SerializedTextureGuid:
+      m_GuidLow: 4993263978342362716
+      m_GuidHigh: 12358277247314336666
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: hydrogen0
+    m_Texture: {fileID: 2800000, guid: 02d9ae5ca322454b9a9bf6f1ad6b81ab, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5174619972213421822
+      m_GuidHigh: 5638956839621120903
+    m_SerializedTextureGuid:
+      m_GuidLow: 4804026041502934427
+      m_GuidHigh: 436544792142188180
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: hydrogen1
+    m_Texture: {fileID: 2800000, guid: 5f82259b543b42ab948e2ef02ceb0e06, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5474309830034173696
+      m_GuidHigh: 17823572725213183157
+    m_SerializedTextureGuid:
+      m_GuidLow: 5526228664051327382
+      m_GuidHigh: 15358341248389870770
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Sun
+    m_Texture: {fileID: 2800000, guid: d45c61961bb04cb1b2f48151fec923d5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5704882181203992196
+      m_GuidHigh: 7983019581690270136
+    m_SerializedTextureGuid:
+      m_GuidLow: 5271652349173498224
+      m_GuidHigh: 193242474985838734
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: flor
+    m_Texture: {fileID: 2800000, guid: 93d70170abe149288e580cd50189ae02, type: 3}
